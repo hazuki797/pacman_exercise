@@ -1,5 +1,5 @@
 # pacman_exercise
-This project showcases the integration of HTML, CSS, and JavaScript to create a dynamic experience for the user. The importance of this project is that the pacman A) knows the boundaries of the webpage B) changes directions once it hits the end of the page. 
+This project exemplifies the seamless integration of HTML, CSS, and JavaScript to produce a dynamic and interactive user experience. The significance of this undertaking lies in the fact that the Pac-Man character not only possesses an acute awareness of the boundaries of the webpage but also autonomously alters its direction of movement upon reaching the extremities of the page.
 
 <h2>How to run:</h2> 
 Open the webpage and you will automatically see a pac-man image traveling across your screen. Once it hits the end of the page, it will change directions to make its way back. 
